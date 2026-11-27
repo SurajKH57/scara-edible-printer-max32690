@@ -1,0 +1,12 @@
+{
+  "Soc": "MAX32690",
+  "Package": "TQFN",
+  "WorkspacePluginId": "com.analog.singlecore.msdk.gpio",
+  "WorkspacePluginVersion": "1.1.0",
+  "WorkspaceName": "Motor_Control_Program",
+  "Location": "/Users/surajkaarthihema/Desktop/College/Competitions/Anvesham/Codefusion",
+  "Board": "EvKit_V1",
+  "Projects": [],
+  "DataModelVersion": "1.4.52",
+  "DataModelSchemaVersion": "1.6.0"
+}
