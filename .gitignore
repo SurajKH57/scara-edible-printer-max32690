@@ -1,0 +1,10 @@
+# Sample programs
+Codefusion/Single_Core_Hello_World/
+Codefusion/SPI_loopback_test/
+
+# Build artifacts & logs
+**/build/
+*.log
+
+# macOS
+.DS_Store
